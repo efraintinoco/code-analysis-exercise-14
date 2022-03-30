@@ -19,8 +19,8 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-|   Efrain = { username:Cowboys4Life, isActive: True }     |   "Welcome back, Cowboys4Life!"             | 
-|   Carla = { username: DallasTX, isActive: False)     |    "Hey DallasTX! Would you like to renew your subscription?"    | 
+|   { username: "Cowboys4Life", isActive: True }     |   Welcome back, Cowboys4Life!            | 
+|   { username: "DallasTX", isActive: False}     |    Hey DallasTX! Would you like to renew your subscription?    | 
 |       |        | 
 
 <table>
